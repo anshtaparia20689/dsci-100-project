@@ -1,5 +1,13 @@
 # Data Science Project: Planning Stage (Individual)
 
+Planning Report — Predicting Usage of a Video Game Research Server
+Student: Ansh Taparia
+
+Project: UBC Data Science Project
+Student ID: 32652604
+
+This notebook is fully reproducible.
+
 ## Project Overview
 This project is part of the UBC Data Science course.  
 The goal is to explore and analyze data from a research video game server to answer the question:
