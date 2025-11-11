@@ -4,6 +4,7 @@ Planning Report — Predicting Usage of a Video Game Research Server
 Student: Ansh Taparia
 
 Project: UBC Data Science Project
+
 Student ID: 32652604
 
 This notebook is fully reproducible.
